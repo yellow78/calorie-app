@@ -1,5 +1,6 @@
 .env
 .claude/
+提示詞.txt
 .venv/
 __pycache__/
 *.pyc
