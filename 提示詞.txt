@@ -1,0 +1,9 @@
+我要撰寫一個 gradio 的 APP，下面是條件
+1.架設在 Huggingface上
+2. 這個 app 可以在使用者輸入一張照片時，告訴使用者這張照片中食物的大概熱量
+3.如果不是食物，就要回應「這個不是食物」
+4. 我要使用 Google 的模型，我會提供 google 的 API KEY。
+5.本專案更使用 uv,venv，不要弄髒本機的環境。
+6.如果要架設在 Huggingface上，我還需要提供 Huggingface 的 api key 對吧？
+7.另外 Husgingface 支援 git repo，所以整個程式的 git repo也應該放在 Husgingface 上
+8.幫我建立完整的專案並且先在本機上執行成功。
